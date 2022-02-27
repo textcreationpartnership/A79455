@@ -1,0 +1,188 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the right honourable the Lords assembled in Parliament the humble petition of Phillip Earle of Chesterfield, delivered and read in the Lords House upon Saturday the thirteenth of February, 1646.</title>
+            <author>Chesterfield, Philip Stanhope, Earl of, 1584-1656.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79455</idno>
+            <idno type="STC">Wing C3784B</idno>
+            <idno type="STC">ESTC R173824</idno>
+            <idno type="EEBO-CITATION">45789224</idno>
+            <idno type="OCLC">ocm 45789224</idno>
+            <idno type="VID">172536</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79455)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172536)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2638:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the right honourable the Lords assembled in Parliament the humble petition of Phillip Earle of Chesterfield, delivered and read in the Lords House upon Saturday the thirteenth of February, 1646.</title>
+                  <author>Chesterfield, Philip Stanhope, Earl of, 1584-1656.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>Printed in the year, 1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: Christ Church (University of Oxford). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Chesterfield, Philip Stanhope, --  Earl of, 1584-1656.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172536:1" rendition="simple:additions"/>
+            <p>TO THE RIGHT HONOVRABLE THE LORDS ASSEMBLED IN PARLIAMENT THE HVMBLE PETITION OF PHILLIP Earle of Cheſterfield, delivered and read in the LORDS Houſe upon Satur<g ref="char:EOLhyphen"/>day the thirteenth of February, 1646.</p>
+            <p>Printed in the Year, 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:172536:2"/>
+            <pb facs="tcp:172536:2" rendition="simple:additions"/>
+            <head>To the Right Honourable, the Lords aſſembled in PARLIAMENT. <hi>The humble Petition of</hi> Phillip <hi>Earle of</hi> Cheſterfield.</head>
+            <opener>Sheweth,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>HAT your Petitioner having la<g ref="char:EOLhyphen"/>boured under ſeverall long and grievous ſickneſſes, in the time he hath continued your Priſoner, (by your honourable favours in <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>odgings) for above three <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and a halfe now laſt paſt here in <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> months in ſeverall pla<g ref="char:EOLhyphen"/>ces in the Country, in <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uch miſery and danger of his life, a warrant being given by Sir <hi>Iohn Gell</hi> to Cap<g ref="char:EOLhyphen"/>taine <hi>Vermuden</hi> to hang him, of which he hath proofe here in Towne from <hi>Vermudens</hi> owne mouth, contra<g ref="char:EOLhyphen"/>ry to the Law of Armes, and to the agreement upon the ſurrender of the cloſe in <hi>Litch-field,</hi> by which both himſelfe &amp; all his there were to have free quar<g ref="char:EOLhyphen"/>ter for themſelves to paſſe away peaceably with bagg &amp; baggage, though when by the ſame agreement they no ſooner entered the place, but held all priſoners, rob<g ref="char:EOLhyphen"/>bed &amp; ſpoiled your Petitioner and all the reſt, (with in the agreement included) of very wearing, apparell horſes, armes, monies, &amp; what elſe they had to the ful
+<pb facs="tcp:172536:3"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:172536:3"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:172536:4" rendition="simple:additions"/>
+value of at leaſt five thouſand pounds, beſides in thoſe ſad diſtempers of the time being diſpoyled of his houſhold ſtuffe with his owne, his wife and childrens apparrel &amp; other things to them belonging, as monies jewels, &amp; plate in his two ſeveral houſes, to the ful va<g ref="char:EOLhyphen"/>lue of at leaſt eighteene thouſand pounds, beſides the monies and wearing apparrell of about foureſcore ſer<g ref="char:EOLhyphen"/>vants, very many of which were perſons of ſuch qua<g ref="char:EOLhyphen"/>litie as what they then loſt amounted to above foure<g ref="char:EOLhyphen"/>teen hundred pounds beſides your Petitioners ſtock of beaſts, ſheep, and horſes in three ſeverall places ta<g ref="char:EOLhyphen"/>ken from him to the value of nineteen or twenty thou<g ref="char:EOLunhyphen"/>ſand pounds more at leaſt, his demeanes being all fully fraughted and furniſhed with his owne ſtock, beſides alſo two of his three choice houſes, the one whereof being his ancient ſea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e &amp; place of his Barrony being-plucked down fired, defaced &amp; demoliſhed, which coſt above ſixteen thouſand pounds, not yet fifty yeares a<g ref="char:EOLhyphen"/>goe, his whole perſonall Eſtate within and without doores violently ſeized and carried away, his wood and timber in ſeveral counties waſte fully felled, his Parks decayed, his whole reall Eſtate ſequeſtred amounting in theſe foure yeares to fourteen thouſand pounds his Tenants ſtocks violently driven away, themſelves alſo impriſoned for not paying greater taxes then either their livings or eſtates were able to ſatisfie, ſome of them dying, the reſt and thoſe that live, their wives and children and ſelves ſo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> impoveriſhed, as to turne up their farmes and goe a begging, whereby much pre<g ref="char:EOLhyphen"/>judice is come to your Petitioner, their Lands lying waſtand their houſes for want of tenants fallen downe and burnt by other townſmen, and all the fences and bounds betwixt him &amp; other Lords, ſo defaced as ſcarce
+<pb facs="tcp:172536:4"/>
+againe to be known, whereby great ſuites and debates are like to ariſe hereafter; Your Petitioners debts which before theſe times were four thouſand pounds, are now ſince theſe times, increaſed to above five thouſand pounds; his friends, tenants and ſervants in<g ref="char:EOLhyphen"/>gaged for him, impriſoned, and he not able to relieve them, &amp; that nothing of <hi>Iobs</hi> afflictions migh be want<g ref="char:EOLhyphen"/>ing his children ſlaine, one cruelly murthered after he had laid downe his armes, and diſerted that ſervice, a<g ref="char:EOLhyphen"/>nother alſo moſt barbarouſly killed and murdered in one of your Petitioners houſes, and with him alſo a<g ref="char:EOLhyphen"/>bout ſeven ſcore more then ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ine not ſparing the killing of ſome children, slaſhing &amp; wounding of one Gentlewoman, and other women that could not be in armes, with other unheard of barbarouſneſſe, both to the living and dead; yea, ſuch, as were your Petitio<g ref="char:EOLhyphen"/>ner a Turk, Heathen, Iew, or Infidell, that had deſer<g ref="char:EOLhyphen"/>ved much worſe of any State, then he hopes hee hath done of this; yet is confident, more ſeverity could not have been exerciſed, then hath beene upon him, but unknown, I am confident, to your Lordſhips: For all this time of his impriſonment, hee hath not beene al<g ref="char:EOLhyphen"/>lowed the value of ſix pence yearly, forth of his owne ſequeſtred eſtate, but hath lived upon credit and bor<g ref="char:EOLhyphen"/>rowing, untill theſe two laſt yeares, that ſome of his Friends and Tenants in Derby ſhire, farmed divers Lands in thoſe parts; from whence, by extraordinary husbandry in tillage for corn, they gained about eight<g ref="char:EOLhyphen"/>ſcore pounds a yeare for his behoofe. But now upon certain votes by the houſe of Commons only, bearing date the tenth day of Novemb, laſt paſt, but never con<g ref="char:EOLhyphen"/>firmed by your Lordſhips can therefore, he thinkes be no abſolute binding Ordinance: yet none of his Lands
+<pb facs="tcp:172536:5"/>
+can be any more farmed by any to his uſe or behoofe: whereupon the Lady Hoghton, his Daughter, wrote a letter to the Derbyſhire Committee, that thoſe lands might ſtill be farmed to your Petitioners benefit, and that thoſe Votes of the houſe of Commons above ſpe<g ref="char:EOLhyphen"/>cified, were but only Votes and not an Ordinance, with<g ref="char:EOLhyphen"/>out your Lordſhips aſſent and joyning, which they took ſo heinously, as expreſſed much bitterneſſe and paſſion thereupon; ſaying, they ſhould be obeyed as a good Ordinance, by any that had to do with them, with ſome other high and unfitting language, which he dares not expreſſe: So as now, your Petitioner is hopeleſſe of further ſubſiſtance, and having now lately ſuffered a great deale of miſery and ſickneſſe, which kept him in his bed above nine weekes together: In which time, truly my Lords, he had like to have peri<g ref="char:EOLhyphen"/>ſhed for want of meanes to pay Phyſitians, Chyrur<g ref="char:EOLhyphen"/>gions, and Apothecaries, or to buy neceſſary meat and drink fit for a ſick perſon; deſpairing therefore of re<g ref="char:EOLhyphen"/>covery, he cauſed his Chaplain to make his ſad condi<g ref="char:EOLhyphen"/>tion known to the Congregation, and to entreat their prayers for him, which hee having done, moſt miracu<g ref="char:EOLhyphen"/>lously, by heavens hand, beyond expectation, he was a<g ref="char:EOLhyphen"/>gain reſtored and preſerved, by one, whoſe name hee neither knowes, nor had formerly ſeen, or converſed with him, came to him as he was upon his ſick bed, &amp; delivered to him a good ſumme of money, whereby till now, he hath ſubſiſted, with this further meſſage, that they who ſent the mony, ſo much pittied his pre<g ref="char:EOLhyphen"/>ſent ſad condition, as not to expect repayment, until he were reſtored again to his rights and eſtate. But now again, thoſe monies being ſpent and gone, your Petiti<g ref="char:EOLhyphen"/>oner is ſo miſerable poore, as to want money to buy
+<pb facs="tcp:172536:5"/>
+him bread, not having clothes to his backe, more then what he dayly weares, beſides, old Scores to Cookes, Woodmongers, Brewers, Bakers, and other Tradeſ<g ref="char:EOLhyphen"/>men, being long and great, without his abilities to pay or ſatisfie, can therefore have no further credit, but muſt doubtleſſe periſh, unleſſe your Lordſhips be fa<g ref="char:EOLhyphen"/>vourable and noble unto him.</p>
+            <p>To your Lordſhips therefore and to you only, as perſons ſenſible of honour, and tender of the ſufferings of men di<g ref="char:EOLhyphen"/>ſtreſſed, As alſo knowing the Lawes of the L<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd ſo well, as that theeves and robbers men of meaner quality, than him<g ref="char:EOLhyphen"/>ſelf; and having committed more haynous offences, then hee hopes hi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> will ever prove, when he may be admitted <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o his apolog<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e and defence, yet muſt be allowed a fitting ſubſiſt<g ref="char:EOLhyphen"/>ance forth of their own eſtates (if they have any) untill there be a conviction &amp; not to be pined and ſtar<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed, which is now this your preſent petitioners caſe; whoſe addreſſes only are &amp; ſhall be to your <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ordſhips not doubting but in abatement of your too ridged cenſure of his offence he ſhall make it ap<g ref="char:EOLhyphen"/>pear to you that he hath, both whileſt he was with the King himſelf, &amp; ſince alſo done eighteen ſeveral good offices for the Parliament; yea and preſerved the lives and eſtates of ſome of the Houſe of Commons who had elſe ſuffered much, He cannot therefore doubt of your noble inclinations to favour and commiſterate his condition in the meane time he hum<g ref="char:EOLhyphen"/>bly intreats you favourable conſtruction of any thing here<g ref="char:EOLunhyphen"/>in contained, he being ſo aſhamed that any ſhould take no<g ref="char:EOLhyphen"/>tice of his preſent, miſerable condition, that he had not the confidence to adviſe with any about the better inditing this his Petition, but his ſadneſſe of beart with the ſence of his owne ſufferings were indeed the preſſers &amp; inditers of what is herein expreſſed and deſired.</p>
+            <p>That your Petitioner in this his ſad afflicted condition, if theſe his already ſufferings may not ſuffice to expiate the offence conceaved againſt him, and move with your Lord<g ref="char:EOLhyphen"/>ſhips, to reſtore him againe to his liberty and ruined eſtate, which he humbly beſeecheth, being vtterly diſabled of all
+<pb facs="tcp:172536:6"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:172536:6"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:172536:7"/>
+meanes to redeeme himſelfe &amp; Eſtate by the favour vouch<g ref="char:EOLhyphen"/>ſafed to others, in being admitted to their compoſition whileſt they had ſomething wherewith to doe the ſame, (which your Petitioner now hath not) being but bare ten<g ref="char:EOLhyphen"/>ant for life, makes therefore his humble adreſſe to your Lordſhips; that you will be honourably pleaſed in your nobleneſſe, ſo far to take into your conſideration, your Peti<g ref="char:EOLhyphen"/>tioner, and his preſent ſufferings, and want of livelyhood &amp; ſubſiſtance, as that ſome preſent competencie, out of your Pe<g ref="char:EOLhyphen"/>titioners eſtate, may, by your honourable order be timely alotted and paid unto him out of his ſequeſtred eſtate, in the Counties of Derby, Nottingham, and Lincoln.</p>
+            <closer>
+               <signed>And your Petitioner ſhall ever pray, &amp;c. P. CHESTERFIELD.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
